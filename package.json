@@ -1,0 +1,38 @@
+{
+  "_args": [],
+  "_id": "switch-tab-or-pane@1.1.0",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/switch-tab-or-pane",
+  "_phantomChildren": {},
+  "_requested": {},
+  "_requiredBy": [
+    "#USER"
+  ],
+  "activationCommands": {
+    "atom-workspace": [
+      "switch-tab-or-pane:left",
+      "switch-tab-or-pane:right",
+      "switch-tab-or-pane:up",
+      "switch-tab-or-pane:down"
+    ]
+  },
+  "dependencies": {},
+  "description": "Switch tab or pane with cmd-alt-{direction}",
+  "devDependencies": {},
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "keywords": [],
+  "license": "MIT",
+  "main": "./lib/switch-tab-or-pane",
+  "name": "switch-tab-or-pane",
+  "optionalDependencies": {},
+  "readme": "",
+  "readmeFilename": "README.md",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wcamarao/switch-tab-or-pane.git"
+  },
+  "version": "0.1.0"
+}

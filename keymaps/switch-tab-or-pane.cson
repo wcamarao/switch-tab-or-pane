@@ -1,0 +1,5 @@
+'atom-text-editor':
+  'cmd-alt-left': 'switch-tab-or-pane:left'
+  'cmd-alt-right': 'switch-tab-or-pane:right'
+  'cmd-alt-up': 'switch-tab-or-pane:up'
+  'cmd-alt-down': 'switch-tab-or-pane:down'
